@@ -6,7 +6,7 @@ ATtiny85-based illuminated PCB keychain featuring the Ruddock House crest
 ![ruddblink](/img/ruddblink.png)
 
 ## Description
-Ruddock House is one of the eight student houses in the undergraduate housing system at Caltech. Ruddock was founded in 1960 in honor of Albert Billings Ruddock, a former Chairman of the Caltech Board of Trustees. Some notable alumni from Ruddock House include Peter Shor, Bill Gross, Eric Betzig, and Michael Rosbash. The current house motto is *Virtutis mammilas exsugimus.*
+Ruddock House is one of the eight student houses in the undergraduate housing system at Caltech and was founded in 1960. Some notable alumni from Ruddock House include Peter Shor, Bill Gross, Eric Betzig, and Michael Rosbash. The current house motto is *Virtutis mammilas exsugimus.*
 
 This is a 1.6" by 1.9" PCB keychain featuring the Ruddock House crest on the top copper, based on the [original Ruddock crest PCB keychain](https://github.com/ElectronicToast/ruddock-house-crest-pcb/). A ring of 8 LEDs around the crest is controlled by an ATtiny85 through a 74HC595 shift register. This keychain is intended to be compact and aesthetic, but also simple to solder; all packages are SOIC and 0805 or larger.
 
